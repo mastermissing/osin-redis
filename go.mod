@@ -1,4 +1,4 @@
-module github.com/osin-redis
+module github.com/mastermissing/osin-redis
 
 go 1.20
 
