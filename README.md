@@ -7,7 +7,7 @@ Provides Redis-based storage for [osin](https://github.com/openshift/osin) and i
 ### Installation
 
 ```
-$ go get github.com/mastermissing/osin-redis
+$ go get github.com/mastermissing/osin-redis@master
 ```
 
 ### Running tests
