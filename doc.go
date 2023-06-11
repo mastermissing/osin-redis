@@ -3,13 +3,13 @@ A Redis storage backend for osin.
 
 Installation:
 
-	go get github.com/ShaleApps/osinredis
+	go get github.com/mastermissing/osin-redis
 
 Usage:
 
 	import (
-		"github.com/RangelReale/osin"
-		"github.com/ShaleApps/osinredis"
+		"github.com/openshift/osin"
+		"github.com/mastermissing/osin-redis"
 		"github.com/garyburd/redigo/redis"
 	)
 
